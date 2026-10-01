@@ -3,7 +3,7 @@
   "versionCode": 1030,
   "updateUrl": "https://raw.githubusercontent.com/esbeltv25-arch/CajaMaster-Updates/main/updates/bundle-v1.3.0.zip",
   "mandatory": false,
-  "changelog": "fix(reports): corregir ecuacion de inventario final en IPVE y agregar pre-auditoria de PDF",
+  "changelog": "fix(reports): correccion ecuacion inventario final IPVE y pre-auditoria PDF",
   "releaseDate": "2026-10-01",
   "minNativeVersionCode": 1000
 }
