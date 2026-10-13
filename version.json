@@ -3,7 +3,7 @@
   "versionCode": 1033,
   "updateUrl": "https://raw.githubusercontent.com/esbeltv25-arch/CajaMaster-Updates/main/updates/bundle-v1.3.3.zip",
   "mandatory": false,
-  "changelog": "Corrección de cámara, acceso a ajustes y sincronización Mac/Móvil",
+  "changelog": "Cámara con pantalla negra solucionada, botón de pestaña nueva y soporte de bundles OTA en Android",
   "releaseDate": "2026-10-13",
   "minNativeVersionCode": 1000
 }
