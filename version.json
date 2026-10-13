@@ -3,7 +3,7 @@
   "versionCode": 1033,
   "updateUrl": "https://raw.githubusercontent.com/esbeltv25-arch/CajaMaster-Updates/main/updates/bundle-v1.3.3.zip",
   "mandatory": false,
-  "changelog": "Sincronización multidispositivo universal WebRTC P2P y Nube para enlazar Mac y móvil",
+  "changelog": "Sincronización P2P Mac y Móvil, soporte nativo de cámara e instalación ZIP garantizada",
   "releaseDate": "2026-10-13",
   "minNativeVersionCode": 1000
 }
