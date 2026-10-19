@@ -1,9 +1,9 @@
 {
-  "version": "1.3.4",
-  "versionCode": 1044,
-  "updateUrl": "https://raw.githubusercontent.com/esbeltv25-arch/CajaMaster-Updates/main/updates/bundle-v1.3.4.zip",
+  "version": "1.3.5",
+  "versionCode": 1050,
+  "updateUrl": "https://raw.githubusercontent.com/esbeltv25-arch/CajaMaster-Updates/main/updates/bundle-v1.3.5.zip",
   "mandatory": false,
-  "changelog": "Cámara universal con captura directa móvil/hardware, soporte de webcam Mac y corrección de etiquetas",
-  "releaseDate": "2026-10-14",
+  "changelog": "Cámara universal Android/hardware con selector nativo y captura instantánea",
+  "releaseDate": "2026-10-19",
   "minNativeVersionCode": 1000
 }
