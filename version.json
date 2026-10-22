@@ -3,7 +3,7 @@
   "versionCode": 1050,
   "updateUrl": "https://raw.githubusercontent.com/esbeltv25-arch/CajaMaster-Updates/main/updates/bundle-v1.3.5.zip",
   "mandatory": false,
-  "changelog": "Cámara universal Android/hardware con selector nativo y captura instantánea",
-  "releaseDate": "2026-10-19",
+  "changelog": "CajaNativePlugin: servidor WebSocket nativo Wi-Fi (8787), permisos de cámara Android, selector nativo para compartir/PDF/CSV, confirmaciones táctiles no bloqueantes y purga explícita de caché y Service Worker en Ajustes",
+  "releaseDate": "2026-10-22",
   "minNativeVersionCode": 1000
 }
