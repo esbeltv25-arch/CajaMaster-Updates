@@ -1,9 +1,9 @@
 {
-  "version": "1.3.5",
-  "versionCode": 1050,
-  "updateUrl": "https://raw.githubusercontent.com/esbeltv25-arch/CajaMaster-Updates/main/updates/bundle-v1.3.5.zip",
+  "version": "1.3.6",
+  "versionCode": 1060,
+  "updateUrl": "https://raw.githubusercontent.com/esbeltv25-arch/CajaMaster-Updates/main/updates/bundle-v1.3.6.zip",
   "mandatory": false,
-  "changelog": "CajaNativePlugin: servidor WebSocket nativo Wi-Fi (8787), permisos de cámara Android, selector nativo para compartir/PDF/CSV, confirmaciones táctiles no bloqueantes y purga explícita de caché y Service Worker en Ajustes",
-  "releaseDate": "2026-10-22",
+  "changelog": "Auditoría contable Nivel 1: Sentinel preventivo anti-descuadre, corrección matemática y visual de reportes IPVE/IPV, alineación de columnas PDF y unificación de máscaras contables",
+  "releaseDate": "2026-10-28",
   "minNativeVersionCode": 1000
 }
